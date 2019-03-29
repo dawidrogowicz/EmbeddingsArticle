@@ -1,0 +1,8 @@
+.idea
+__pycache__/
+dataset/
+log/
+pickles/
+model/
+*.swp
+save/
